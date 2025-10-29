@@ -6,10 +6,10 @@ This directory contains my write-ups for the labs within the courses in this car
 ---
 
 ## Quick Navigation
-### [Certificates](cisco-networking-academy_junior-cybersecurity-analyst-career-path/certificates)
-- [Introduction to Cybersecurity](cisco-networking-academy_junior-cybersecurity-analyst-career-path/certificates/introduction-to-cybersecurity)
+### [Certificates](./certificates/)
+- [Introduction to Cybersecurity](./certificates/introduction-to-cybersecurity/)
     
-### [Cisco NetAd: Networking Basics (labs)](cisco-networking-academy_junior-cybersecurity-analyst-career-path/cisco-networking-academy_networking-basics_labs)
-- [4.4 Configure a Wireless Router and Client](cisco-networking-academy_junior-cybersecurity-analyst-career-path/cisco-networking-academy_networking-basics_labs/4.4-configure-a-wireless-router-and-client)
+### [Cisco NetAd: Networking Basics (labs)](./cisco-networking-academy_networking-basics_labs/)
+- [4.4 Configure a Wireless Router and Client](./cisco-networking-academy_networking-basics_labs/4.4-configure-a-wireless-router-and-client/)
 
 ---
