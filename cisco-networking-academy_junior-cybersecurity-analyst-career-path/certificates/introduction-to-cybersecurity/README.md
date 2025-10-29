@@ -11,7 +11,8 @@ In this course I have explored about the basics of cybersecurity, where I learne
 ---
 
 ## Certificate
-<iframe src="Introduction_to_Cybersecurity_certificate_cisco-net-ad.pdf" alt="Cisco NetAd Certificate"></iframe>
-<iframe src="Introduction_to_Cybersecurity_certificate_dict-itu-dtc-initiative.pdf" alt="Cisco NetAd Certificate"></iframe>
+### [View Cisco NetAcad Certificate PDF](./Introduction_to_Cybersecurity_certificate_cisco-net-ad.pdf)
+
+### [View DICT Certificate PDF](./Introduction_to_Cybersecurity_certificate_dict-itu-dtc-initiative.pdf)
 
 ---
