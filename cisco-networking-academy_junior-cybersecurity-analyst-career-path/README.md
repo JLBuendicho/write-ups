@@ -6,7 +6,7 @@ This directory contains my write-ups for the labs within the courses in this car
 ---
 
 ## Quick Navigation
-### [Certificates](./certificates/)
+### Certificates
 - [Introduction to Cybersecurity](./certificates/introduction-to-cybersecurity/)
     
 ### [Cisco NetAd: Networking Basics (labs)](./cisco-networking-academy_networking-basics_labs/)
