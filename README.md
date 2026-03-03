@@ -11,4 +11,6 @@ This repository exists to document my learning journey, provide insight into my 
 - #### [Cisco NetAd: Networking Basics (labs)](./cisco-networking-academy_junior-cybersecurity-analyst-career-path/cisco-networking-academy_networking-basics_labs)
     - [4.4 Configure a Wireless Router and Client](./cisco-networking-academy_junior-cybersecurity-analyst-career-path/cisco-networking-academy_networking-basics_labs/4.4-configure-a-wireless-router-and-client)
 
+### [Windows 11 + Arch Linux Dual Boot](./windows-arch-dual-boot/)
+
 ---
