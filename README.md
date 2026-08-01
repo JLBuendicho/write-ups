@@ -13,4 +13,6 @@ This repository exists to document my learning journey, provide insight into my 
 
 ### [Windows 11 + Arch Linux Dual Boot](./windows-arch-dual-boot/)
 
+### [KVM + QEMU + libvirt + virt-manager VM Homelab Setup](./kvm-qemu-libvirt-virt_manager-vm_homelab/)
+
 ---
